@@ -4,9 +4,9 @@
 - type: Standards
 - category: Services
 - type: Draft
-- created: 18 October 2021
+- created: 18 October 202123
 - discussions-to: TODO LINK
-- updated: 19 October 2021
+- updated: 20 October 2021
 - requires:
 - replaces:
 - superseded-by:
@@ -162,5 +162,4 @@ message TransactionID {
 
 
 ## Things to discuss:
-- HBar transfers when caused by custom fees?
 - Transaction hash of child records?
